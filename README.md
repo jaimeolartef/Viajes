@@ -1,6 +1,6 @@
 # Viajes
 
-## The tecnologys using in the project
+## The technologies using in the project
 - Java 17.0.5 
 - Postgresql 15.1
 - Spring 3.0.1
